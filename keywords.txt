@@ -1,0 +1,36 @@
+#######################################
+# Syntax Coloring Map For PCD8544 Lib
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+PCD8544	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+AddToDisplayMap	KEYWORD2
+Clear	KEYWORD2
+ClearDisplayMap	KEYWORD2
+GetBackLight	KEYWORD2
+GotoXY	KEYWORD2
+HelloWorld	KEYWORD2
+Init	KEYWORD2
+Print	KEYWORD2
+PrintOnDisplayMap	KEYWORD2
+RemoveFromDisplayMap	KEYWORD2
+SetBackLight	KEYWORD2
+UpdateDisplay	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+ASCII	LITERAL1
+ASCII_FONT_SIZE	LITERAL1
+LCD_C	LITERAL1
+LCD_D	LITERAL1
+LCD_X	LITERAL1
+LCD_Y	LITERAL1
