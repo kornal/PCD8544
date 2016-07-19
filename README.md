@@ -27,6 +27,7 @@ Clone repository inside sketchbook/libraries/.
 If you have default configuration on linux machine then use following commands:
 
 cd ~/sketchbook/libraries/
+
 git clone https://github.com/kornal/PCD8544.git PCD8544
 
 ## API Reference
