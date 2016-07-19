@@ -1,11 +1,12 @@
 ## Synopsis
 
 Arduino library for PCD8544 LCD controller.
+
 Includes:
-1. library by it self;
-2. fence python tool to convert *.png pictures in to C arrays;
-3. examples;
-4. documentation.
+* library by it self;
+* fence python tool to convert *.png pictures in to C arrays;
+* examples;
+* documentation.
 
 ## Code Example
 
@@ -24,8 +25,9 @@ Requirements:
 Clone repository inside sketchbook/libraries/.
 
 If you have default configuration on linux machine then use following commands:
+
 cd ~/sketchbook/libraries/
-git clone https://github.com/kornal/PCD8544.git
+git clone https://github.com/kornal/PCD8544.git PCD8544
 
 ## API Reference
 
